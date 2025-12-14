@@ -8,7 +8,7 @@ The main goal of this project was to convert a graphic design (PSD) into a real,
 - HTML5  
 - CSS3  
 - PSD to HTML conversion  
-- Flexbox / Grid (if used)
+- Flexbox / Grid 
 
 ## 🕹 Features
 ### ✅ Main Store Page
